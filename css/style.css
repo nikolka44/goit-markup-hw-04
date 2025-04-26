@@ -134,6 +134,7 @@ color: #404bbf;
     padding: 188px 0;
     max-width: 1440px;
     background-position: center;
+    margin: 0 auto;
 }
 .title-text {
     max-width: 496px;
@@ -197,7 +198,7 @@ color: #404bbf;
     padding: 24px 0;
     border: 1px solid #8e8f99;
     border-radius: 4px;
-    background-color: #fdf4fb;
+    background-color: #f4f4fb;
     margin-bottom: 8px;
 }
 .feature-icon-item {
